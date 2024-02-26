@@ -1,0 +1,2 @@
+# zsell
+my testnet
